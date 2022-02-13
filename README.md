@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @nia112
-- 👀 I’m interested in learning how to code, to be a web-developer/front-end developer. I've just started how to code a week ago.
-I'll be able to fully commit to learning it starting February. 
+- 👀 An aspiring Software Engineer/CS student 
+
 
 - 🌱 I’m currently learning Html, Css, and Javascript, to create websites. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on fun projects using Javascript (in a few months)
 - 📫 How to reach me : you can email me at nhj25252@gmail.com !!
 
 <!---
