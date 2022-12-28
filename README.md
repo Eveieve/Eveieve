@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning Html, Css, and Javascript, to create websites. 
-- 💞️ I’m looking to collaborate on fun projects using Javascript (in a few months)
+- 💞️ I’m looking to collaborate on fun projects using Javascript
 - 📫 How to reach me : you can email me at nhj25252@gmail.com !!
 
 <!---
