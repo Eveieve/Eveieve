@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Eveieve
-- 👀 An aspiring Software Engineer
-
 
 - 🌱 I’m currently learning Web Development 
 
