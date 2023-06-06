@@ -1,5 +1,5 @@
 # :slightly_smiling_face: Hi, I’m Zeyi
-- :open_book: I've been teaching myself how to program through online resources, and I'm enjoying the journey very much
+- :open_book: I've been teaching myself software development through online resources and have been enjoying the journey very much
 - :computer: I’m currently deep-diving into javaScript and getting myself familiar with React
   * working on a `Resume generator` made with React
   * working on a test-driven `Battleship` game made with vanilla javaScript
