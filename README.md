@@ -1,9 +1,8 @@
 # :slightly_smiling_face: Hi, I’m Zeyi
-- :open_book: I've been teaching myself software development through online resources and have been enjoying the journey very much
 - :computer: I’m currently deep-diving into javaScript and getting myself familiar with React
   * working on a `Resume generator` made with React
   * working on a test-driven `Battleship` game made with vanilla javaScript
-- :love_letter: Drop me an email at jhkdev1@gmail.com to get in touch!
+- :love_letter: Drop me an email at jhkdev1@gmail.com to get in touch! I'll get back to you as soon as I can. 
 <!---
 Eve profile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
