@@ -3,7 +3,7 @@
   * working on a `Resume generator` made with React
   * working on a test-driven `Battleship` game made with vanilla javaScript
 - :love_letter: Drop me an email at jhkdev1@gmail.com to get in touch!
-- 💛 Say hi on [DEV](https://dev.to/zeyidev) | [Twitter](https://twitter.com/jhkdev1)! I'm open to connecting with other like-minded people 💖
+- 💛 Say hi on [DEV](https://dev.to/zeyidev) | [Twitter](https://twitter.com/jhkdev1)
 <!---
 Eve profile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
