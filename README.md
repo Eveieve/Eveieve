@@ -18,5 +18,7 @@ You can click the Preview link to take a look at your changes.
 ![WebPack](https://img.shields.io/badge/-Webpack-000?style=flat&logoColor=white&logo=Webpack&color=404254)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=css3&logoColor=white&color=404254)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?style=flat&logo=css3&logoColor=white&color=404254)
+<!--
 ## Status
 [![Zeyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eveieve&rank_icon=github)](https://github.com/Eveieve/github-readme-stats)
+--->
