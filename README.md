@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e16da,100:fffafa&height=120&text=Nanhee%20Jeong%20&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e16da,100:fffafa&height=120&text=Nina%20J.%20&fontColor=000000&fontSize=40" />
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
